@@ -1,0 +1,28 @@
+body{
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    margin-top: 10px;
+    color:  rgb(228, 66, 66);
+    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.315);
+} 
+
+#snake{
+    box-shadow: 2px 3px 9px rgba(0, 0, 0, 0.295);
+}
+
+#container {
+    background-image: url('img/fundo.jpeg') ;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+    margin:0%;
+}
+
+
