@@ -27,3 +27,11 @@ Desafio 3: Você deve fazer a leitura de 5 valores inteiros. Em seguida mostre q
 Desafio 4:Faça a leitura de um valor inteiro. Em seguida, calcule o menor número de notas possíveis (cédulas) onde o valor pode ser decomposto. As notas que você deve considerar são de 100, 50, 20, 10, 5, 2 e 1. Na sequência mostre o valor lido e a relação de notas necessárias. Entrada: Você receberá um valor inteiro N (0 < N < 1000000). Saída: Exiba o valor lido e a quantidade mínima de notas de cada tipo necessárias, seguindo o exemplo de saída abaixo. Após cada linha deve ser imprimido o fim de linha.
 
 Desafio 5: Você deve calcular o consumo médio de um automóvel onde será informada a distância total percorrida (em Km) e o total de combustível consumido (em litros). Entrada: Você receberá dois valores: um valor inteiro X com a distância total percorrida (em Km), e um valor real Y que representa o total de combustível consumido, com um dígito após o ponto decimal. Saída: Exiba o valor que representa o consumo médio do automóvel (3 casas após a vírgula), incluindo no final a mensagem "km/l".
+
+## Desafios de projeto:
+
+### Netflix-clone
+Recriar a página inicial Netflix. 
+
+### Instagram-clone
+Recriar a página de login do instagram. 
