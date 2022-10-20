@@ -37,4 +37,4 @@ Recriar a página inicial Netflix.
 Recriar a página de login do instagram. 
 
 ## Aula Bootstrap:
-Criação de uma página utilizando bootstrap.
+Criação de uma página web utilizando bootstrap.
