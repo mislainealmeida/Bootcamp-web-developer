@@ -30,13 +30,13 @@ Desafio 5: Você deve calcular o consumo médio de um automóvel onde será info
 
 ## Desafios de projeto:
 
-### Netflix-clone
-Recriar a página inicial Netflix. 
-
 ### Instagram-clone
 Recriar a página de login do instagram. 
 
-###Jogo da cobrinha
+### Netflix-clone
+Recriar a página inicial Netflix. 
+
+### Jogo da cobrinha
 Recriar o jogo da cobrinha, o qual ela precisa ir atrás da comida e de acordo com o que ela alcança ela cresce, e não pode encostar em si mesmo e nem sair da tela se não o jogo encerra. 
 
 ## Aula Bootstrap:
