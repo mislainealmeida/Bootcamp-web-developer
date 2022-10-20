@@ -7,7 +7,9 @@ CSS
 JavaScript
 24.1%
 
-## Desafios Introdução a programação com JavaScript:
+## Desafios de Código:
+
+### Desafios Introdução a programação com JavaScript:
 Desafio 1: Você está na feira com a sua sacola e parou em uma banca. O feirante lhe entregou pimentões amarelos e vermelhos. Agora iremos somar os pimetões amarelos e vermelhos para descobrir o total de pimentões na sacola. Você receberá 2 inteiros que devem ser lidos e armazenados nas variáveis A (pimentões amarelos) e B (pimentões vermelhos). Faça a soma de A e B atribuindo o seu resultado na variável X (total de pimentões). Apresente X como descrito na mensagem de exemplo abaixo. Não apresente outra mensagem além da mensagem especificada.
 
 Desafio 2: Você receberá dois valores inteiros. Faça a leitura e em seguida calcule o produto entre estes dois valores. Atribua esta operação à variável PROD, mostrando esta de acordo com a mensagem de saída esperada (exemplo abaixo).
@@ -15,7 +17,7 @@ Desafio 2: Você receberá dois valores inteiros. Faça a leitura e em seguida c
 Desafio 3: Precisamos saber quanto uma determinada empresa deve pagar para seus colaboradores, porém temos apenas a quantidade de horas trabalhadas e o valor hora. Escreva um programa que leia o número de um colaborador, seu número de horas trabalhadas, o valor que recebe por hora e calcula o salário desse colaborador. Em seguida, apresente o número e o salário do colaborador, com duas casas decimais.
 
 
-## Desafios Fundamentos Aritméticos em JavaScript
+### Desafios Fundamentos Aritméticos em JavaScript
 Desafio 1:Crie um programa que leia 6 valores, os quais poderão ser negativos e/ou positivos. Em seguida, apresente a quantidade de valores positivos digitados. Entrada: Você receberá seis valores, negativos e/ou positivos. Saída: Exiba uma mensagem dizendo quantos valores positivos foram lidos. assim como é exibido abaixo no exemplo de saída. Não se esqueça de incluir na mensagem de saída o sufixo " valores positivos"
 
 Desafio 2: Crie um programa que leia um número e mostre os números pares até esse número, inclusive ele mesmo. Entrada: Você receberá 1 valor inteiro N, onde N > 0. Saída: Exiba todos os números pares até o valor de entrada, sendo um em cada linha.
